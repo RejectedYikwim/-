@@ -1,0 +1,19 @@
+[mob]
+djnpc=DJ
+djnpcname=<name> DJ
+
+[mobmsg]
+djnpc_talk1=Check out my exclusive records from Aron!
+djnpc_talk2=Are you looking for cool music for your player?
+djnpc_talk3=I have all the hits from Aron - only the originals!
+djnpc_talk4=Turn it up, it's Aron!
+djnpc_talk5 =Without good music, the world is not the world!
+djnpc_talk6=Do you want to listen to something special?
+djnpc_talk7=Vinyl is not just music, it's a lifestyle!
+djnpc_talk8= I have all the tracks from Aron - from retro to modern beats!
+
+[item]
+djnpc_spawnitem=DJ Egg
+
+[itemtooltip]
+djnpc_spawnitemtooltip=Calls for a DJ - seller of exclusive Aron Music records

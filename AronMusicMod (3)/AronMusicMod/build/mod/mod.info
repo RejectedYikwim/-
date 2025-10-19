@@ -1,0 +1,9 @@
+{
+	id = aron.musicmod,
+	name = Aron Music Mod,
+	version = 1.0,
+	gameVersion = 1.0.1,
+	author = Fair,
+	description = Adds my custom music records,
+	clientside = false
+}
